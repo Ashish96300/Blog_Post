@@ -45,7 +45,7 @@ export default function Home() {
           </p>
 
           <div className="mt-6 sm:mt-8 flex flex-wrap items-center gap-x-4 gap-y-2 border-y border-white/10 py-4 sm:py-5 text-xs sm:text-sm text-gray-500">
-            <span>By Ashish Sen</span>
+            <span>By Sumit Patidar</span>
             <span aria-hidden="true">·</span>
             <time dateTime="2026-10-12">October 12, 2026</time>
             <span aria-hidden="true">·</span>
